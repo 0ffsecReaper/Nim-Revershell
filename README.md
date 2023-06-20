@@ -22,4 +22,14 @@ The latest development version:
 
 docker pull nimlang/nim:devel
 or 
-follow the website : https://nim-lang.org/install_unix.html
+
+# follow the website : https://nim-lang.org/install_unix.html
+After clonning the code change the IP and PORT
+
+# After doing changes 
+Run nc c -d:mingw <file_name>
+
+A new file will come <file_name>.exe
+
+
+
